@@ -1,6 +1,8 @@
 # Project Epizo 🚀
 ### Offline-first infrastructure for a world without internet
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Offline-first+AI;Decentralized+Knowledge;Resilient+Systems;Build+for+real+world)
+
 > Building offline AI, decentralized knowledge, and resilient systems.
 
 ---
@@ -80,7 +82,5 @@ Epizo is building a world where:
 ---
 
 ## ⚡ Live Activity
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Offline-first+AI;Decentralized+Knowledge;Resilient+Systems;Build+for+real+world)
 
 ![Visitors](https://komarev.com/ghpvc/?username=YOURNAME)
