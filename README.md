@@ -5,7 +5,7 @@
 
 ---
 
-![Epizo](./assets/epizo-banner.png)
+![Epizo](epizo-banner.png)
 
 ---
 
